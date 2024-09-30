@@ -1,0 +1,9 @@
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\bin\Release\Auxiliar.dll
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\bin\Release\Auxiliar.pdb
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\bin\Release\Dominio.dll
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\bin\Release\Dominio.pdb
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\obj\Release\Auxiliar.csproj.AssemblyReference.cache
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\obj\Release\Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\obj\Release\Auxiliar.csproj.Up2Date
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\obj\Release\Auxiliar.dll
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\obj\Release\Auxiliar.pdb

@@ -1,0 +1,9 @@
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\bin\Debug\Auxiliar.dll
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\bin\Debug\Auxiliar.pdb
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\bin\Debug\Dominio.dll
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\bin\Debug\Dominio.pdb
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\obj\Debug\Auxiliar.csproj.AssemblyReference.cache
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\obj\Debug\Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\obj\Debug\Auxiliar.csproj.Up2Date
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\obj\Debug\Auxiliar.dll
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Auxiliar\obj\Debug\Auxiliar.pdb

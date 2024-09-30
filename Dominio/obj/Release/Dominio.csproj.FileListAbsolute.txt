@@ -1,0 +1,6 @@
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Dominio\bin\Release\Dominio.dll
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Dominio\bin\Release\Dominio.pdb
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Dominio\obj\Release\Dominio.csproj.AssemblyReference.cache
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Dominio\obj\Release\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Dominio\obj\Release\Dominio.dll
+C:\Users\sp\Desktop\TPFinalNivel3_Perez\Dominio\obj\Release\Dominio.pdb
